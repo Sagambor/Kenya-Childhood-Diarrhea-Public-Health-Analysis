@@ -11,6 +11,7 @@ Demographic and Health Surveys (DHS) Program — Kenya
 Notebooks
 - Notebook 01 — Trends in Childhood Diarrhea in Kenya (1989-2023)
 - Notebook 02- Feeding and Treatment Practices during Childhood Diarrhea in Kenya
+- Notebook 3- Statistical Analysis & Prevalence Forecasting of Childhood Diarrhea in Kenya
 
 Tools Used
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
